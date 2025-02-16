@@ -12,6 +12,5 @@ A python script and a working chatbot.
 Technologies:Natural Language Processing (NLP) Libraries NTLk.
 ![Screenshot 2025-02-14 234058](https://github.com/user-attachments/assets/d9daa363-5a8d-4f1b-ad73-db58d7af9df9)
 
-
-Uploading Task3.mp4…
+https://github.com/user-attachments/assets/207228f3-8fa7-47fa-8b46-25b36358730e
 
